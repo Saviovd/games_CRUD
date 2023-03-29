@@ -41,8 +41,3 @@ mongoose
 
 })
 .catch((error) => console.log(`Erro: ${error}`))
-
-
-// mongodb+srv://Saviov:6OrRd1w7anPhXL9w@cluster0.uvpecah.mongodb.net/?retryWrites=true&w=majority
-// 6OrRd1w7anPhXL9w
-// 45.190.155.35/32
